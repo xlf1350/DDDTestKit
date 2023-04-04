@@ -32,7 +32,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '12.0'
   
-  s.resources = ['DDTestKit/Assets/*.zip']
+  s.resources = ['DDDTestKit/Assets/*.zip']
 
   s.source_files = 'DDDTestKit/Classes/**/*'
   
