@@ -1,0 +1,16 @@
+PODS:
+  - DDDTestKit (0.1.0)
+
+DEPENDENCIES:
+  - DDDTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  DDDTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DDDTestKit: a1e25ede4362a8796edcdac79513f4ead42a6a17
+
+PODFILE CHECKSUM: 3a10de028fed2b7508d81a87aa540a47607ecce9
+
+COCOAPODS: 1.11.3

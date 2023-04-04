@@ -1,0 +1,6 @@
+framework module DDDTestKit {
+  umbrella header "DDDTestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
